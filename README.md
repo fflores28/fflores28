@@ -1,6 +1,6 @@
 ## Hi there 👋👩‍💻
 - 💻 I'm currently on my IT journey. 
-- 📚 So far I've loved learning about networks, security best practices, & cloud concepts.
+- 📚 So far I've loved learning about networks, security best practices, & cloud architecture.
 - 📝 I will be using github to track my progress on various projects.
 
 <!--
